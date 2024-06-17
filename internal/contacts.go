@@ -1,5 +1,6 @@
 package internal
 
+// This contacts are generated from https://x.com/GranvilleSoi/status/1801182797958135905
 var Contacts = []uint64{
 	254721255235,
 	254727654220,
